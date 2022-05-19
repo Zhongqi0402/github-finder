@@ -19,7 +19,7 @@ function User() {
             dispatch({type: 'GET_USER', payload: userData})
 
             const userRepoData = await getUserRepos(params.login)
-            dispatch({type: 'GET_USER_REPOS', payload: userRepoData})
+            dispatch({type: 'GET_REPOS', payload: userRepoData})
         }
 
         getUserData()
