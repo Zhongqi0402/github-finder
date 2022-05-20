@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##
+Deployed at https://github-finder-3fma4bh1t-zhongqi0402.vercel.app/
 ## Available Scripts
 
 In the project directory, you can run:
