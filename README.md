@@ -2,8 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Deployment
-can be reached here: https://my-project-tau-inky.vercel.app/
+## Visit the website @ https://my-project-tau-inky.vercel.app/
 
 ## Available Scripts
 
